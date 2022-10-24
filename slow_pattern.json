@@ -1,0 +1,9 @@
+{
+    "workers": "all",
+    "args": {
+        "pattern": "slow_worker",
+        "probability": 0.15,
+        "min-slowdown": 0.5,
+        "max-slowdown": 2.0
+    }
+}
